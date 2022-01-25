@@ -1,0 +1,19 @@
+{
+    "name": "11016/test2",
+    "description": "ceshi",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GeLongfei",
+            "email": "gelongfei@weichuanbo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4":{
+            "test\\":"src"
+        }
+    }
+    "require": {}
+}
